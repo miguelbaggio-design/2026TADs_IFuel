@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-<php>
-    
-</php>
-=======
 <?php
 $titulo = 'IFuel';
 $subtitulo = 'Controle de consumo de combustível';
 
 $funcionalidades = [
-    ['titulo' => 'Veículos',       'descricao' => 'Registre seus veículos.',                 'link' => '#'],
+    ['titulo' => 'Veículos',       'descricao' => 'Associe carros aos seus proprietários.',                 'link' => '#'],
     ['titulo' => 'Abastecimentos', 'descricao' => 'Registre valor por litro, litros e odômetro.',           'link' => '#'],
 ];
 ?>
@@ -69,4 +64,3 @@ $funcionalidades = [
     </footer>
 </body>
 </html>
->>>>>>> 06745be (Ajusta home para uso local por usuário)
