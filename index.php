@@ -3,7 +3,7 @@ $titulo = 'IFuel';
 $subtitulo = 'Controle de consumo de combustível';
 
 $funcionalidades = [
-    ['titulo' => 'Veículos',       'descricao' => 'Associe carros aos seus proprietários.',                 'link' => '#'],
+    ['titulo' => 'Veículos',       'descricao' => 'Registre seus veículos.',                 'link' => '#'],
     ['titulo' => 'Abastecimentos', 'descricao' => 'Registre valor por litro, litros e odômetro.',           'link' => '#'],
 ];
 ?>
