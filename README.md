@@ -68,7 +68,7 @@ cd TADsQuarta
 
 ### 🎓 Alunos Desenvolvedores
 - 🧑‍💻 Alysson Fernando Buchner
-- 👩‍💻 Carolina da Rosa Fagundes
+- 🧑‍💻 Carolina da Rosa Fagundes
 - 🧑‍💻 Igor Emmel Stein
 - 🧑‍💻 João Pedro Pierret de Souza
 - 🧑‍💻 Otávio Maassen Schweinitz
