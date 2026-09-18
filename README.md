@@ -1,4 +1,4 @@
-﻿# 🚗 TADS 2026 - IFuel (IFSUL - Campus Venâncio Aires)
+# 🚗 TADS 2026 - IFuel (IFSUL - Campus Venâncio Aires)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -67,16 +67,16 @@ cd TADsQuarta
 - **Prof. Miguel Angelo Baggio**
 
 ### 🎓 Alunos Desenvolvedores
-- 🧑‍💻 Alysson Fernando Buchner
-- 🧑‍💻 Carolina da Rosa Fagundes
-- 🧑‍💻 Igor Emmel Stein
-- 🧑‍💻 João Pedro Pierret de Souza
-- 🧑‍💻 Otávio Maassen Schweinitz
-- 🧑‍💻 Pablo Theves
-- 🧑‍💻 Renan Francisco Faleiro Guterres
-- 🧑‍💻 Rodrigo Luiz Noll
-- 🧑‍💻 Tiago Luis Roesch Gonçalves
-- 🧑‍💻 Vitor Hugo Kroth Marmitt
+- 👨‍🎓 Alysson Fernando Buchner
+- 👩‍🎓 Carolina da Rosa Fagundes
+- 👨‍🎓 Igor Emmel Stein
+- 👨‍🎓 João Pedro Pierret de Souza
+- 👨‍🎓 Otávio Maassen Schweinitz
+- 👨‍🎓 Pablo Theves
+- 👨‍🎓 Renan Francisco Faleiro Guterres
+- 👨‍🎓 Rodrigo Luiz Noll
+- 👨‍🎓 Tiago Luis Roesch Gonçalves
+- 👨‍🎓 Vitor Hugo Kroth Marmitt
 
 ---
 
