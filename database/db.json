@@ -1,0 +1,43 @@
+{
+  "carros": [
+    {
+      "placa": "ABC1D23",
+      "tanque": 55,
+      "modelo": "Fiat Argo 1.3"
+    },
+    {
+      "placa": "XYZ9K45",
+      "tanque": 48,
+      "modelo": "Hyundai HB20 1.0 Turbo"
+    }
+  ],
+  "abastecimentos": [
+    {
+      "id": 1,
+      "placa": "ABC1D23",
+      "combustivel": "Flex",
+      "preco_litro": 5.89,
+      "data": "2026-09-01",
+      "qtd_abast": 40.5,
+      "odometro": 32100
+    },
+    {
+      "id": 2,
+      "placa": "ABC1D23",
+      "combustivel": "Flex",
+      "preco_litro": 6.02,
+      "data": "2026-09-15",
+      "qtd_abast": 55,
+      "odometro": 32450
+    },
+    {
+      "id": 3,
+      "placa": "XYZ9K45",
+      "combustivel": "Gasolina",
+      "preco_litro": 6.45,
+      "data": "2026-09-10",
+      "qtd_abast": 38,
+      "odometro": 15200
+    }
+  ]
+}   
