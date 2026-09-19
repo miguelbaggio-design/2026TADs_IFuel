@@ -1,20 +1,39 @@
 {
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "email": "joao@example.com",
+      "senha_hash": " ",
+      "criado_em": "2026-01-15T08:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Santos",
+      "email": "maria@example.com",
+      "senha_hash": " ",
+      "criado_em": "2026-02-20T14:00:00.000Z"
+    }
+  ],
   "carros": [
     {
       "placa": "ABC1D23",
       "tanque": 55,
-      "modelo": "Fiat Argo 1.3"
+      "modelo": "Fiat Argo 1.3",
+      "usuario_id": 1
     },
     {
       "placa": "XYZ9K45",
       "tanque": 48,
-      "modelo": "Hyundai HB20 1.0 Turbo"
+      "modelo": "Hyundai HB20 1.0 Turbo",
+      "usuario_id": 2
     }
   ],
   "abastecimentos": [
     {
       "id": 1,
       "placa": "ABC1D23",
+      "usuario_id": 1,
       "combustivel": "Flex",
       "preco_litro": 5.89,
       "data": "2026-09-01",
@@ -24,6 +43,7 @@
     {
       "id": 2,
       "placa": "ABC1D23",
+      "usuario_id": 1,
       "combustivel": "Flex",
       "preco_litro": 6.02,
       "data": "2026-09-15",
@@ -33,6 +53,7 @@
     {
       "id": 3,
       "placa": "XYZ9K45",
+      "usuario_id": 2,
       "combustivel": "Gasolina",
       "preco_litro": 6.45,
       "data": "2026-09-10",
