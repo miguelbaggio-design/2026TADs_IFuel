@@ -24,5 +24,7 @@ $subtitulo = $subtitulo ?? 'Controle de consumo de combustível';
             <a href="<?= $basePath ?>index.php"><i class="fa-solid fa-house"></i> Início</a>
             <a href="<?= $basePath ?>views/formCarro.php"><i class="fa-solid fa-car"></i> Veículos</a>
             <a href="<?= $basePath ?>views/formAbastecimento.php"><i class="fa-solid fa-gas-pump"></i> Abastecimentos</a>
+            <a href="<?= $basePath ?>views/formLogin.php"><i class="fa-solid fa-right-to-bracket"></i> Login</a>
+            <a href="<?= $basePath ?>views/formCadastro.php"><i class="fa-solid fa-user-plus"></i> Cadastro</a>
         </nav>
     </header>
