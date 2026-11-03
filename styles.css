@@ -384,3 +384,55 @@ footer {
     color: #777;
     font-size: .85rem;
 }
+
+.auth-container {
+    max-width: 480px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.auth-container .section-card {
+    padding: 30px;
+}
+
+.auth-description {
+    color: #666;
+    margin-bottom: 24px;
+}
+
+.auth-form {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.auth-button {
+    background: #1b7f3b;
+    color: #fff;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.auth-button:hover {
+    background: #15662f;
+}
+
+.auth-link {
+    text-align: center;
+    margin-top: 22px;
+    font-size: 14px;
+}
+
+.auth-link a {
+    color: #1b7f3b;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.auth-link a:hover {
+    text-decoration: underline;
+}
