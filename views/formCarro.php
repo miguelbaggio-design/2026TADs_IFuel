@@ -35,6 +35,11 @@ require_once __DIR__ . '/../components/header.php';
                 </div>
 
                 <div class="form-group">
+                    <label for="tanque">Capacidade do Tanque (L)</label>
+                    <input type="number" id="tanque" name="tanque" min="1" step="0.01" placeholder="Ex: 50" required>
+                </div>
+
+                <div class="form-group">
                     <button type="submit" class="btn-primary">
                         <i class="fa-solid fa-plus"></i> Adicionar Carro
                     </button>
